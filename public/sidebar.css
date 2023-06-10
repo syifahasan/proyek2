@@ -1,0 +1,11 @@
+.nav-pills li a{
+    color: white;
+}
+.nav-pills li a:hover{
+    color: rgb(220, 225, 230);
+}
+.nav-pills > .active > a {
+    color: rgb(23, 95, 203);
+    background-color: transparent ;
+}
+

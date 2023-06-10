@@ -1,0 +1,10 @@
+body{
+    background-image: url('img/Desktop\ -\ 1\ \(2\).png');
+    background-size: cover;
+    max-height: 100vh;
+    height: 100%;
+}
+
+.container{
+    padding: 70px;
+}
